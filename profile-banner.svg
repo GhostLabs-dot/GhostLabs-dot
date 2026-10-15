@@ -56,10 +56,10 @@
     <circle cx="1034" cy="139" r="3" fill="#67e8f9"/>
     <circle cx="1085" cy="243" r="3" fill="#a78bfa"/>
   </g>
-  <text x="74" y="67" fill="#8ba2bf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3.6">INDEPENDENT R&amp;D / SOFTWARE ENGINEERING</text>
+  <text x="74" y="67" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="3.2">INDEPENDENT R&amp;D / SOFTWARE ENGINEERING</text>
   <text x="70" y="157" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="750" letter-spacing="-2.5">GHOST LABS</text>
   <rect x="75" y="183" width="62" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="75" y="220" fill="#e1e9f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Build intelligently. Engineer precisely. Research deeply.</text>
-  <text x="75" y="275" fill="#8b9bb0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.45">AI SYSTEMS  ·  EVM  ·  SMART CONTRACT SECURITY  ·  DEVELOPER TOOLS</text>
-  <path d="M75 294H625" stroke="url(#accent)" stroke-opacity=".6" stroke-width="1"/>
+  <text x="75" y="282" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.25">AI SYSTEMS  ·  EVM  ·  SMART CONTRACT SECURITY  ·  DEVELOPER TOOLS</text>
+  <path d="M75 308H625" stroke="url(#accent)" stroke-opacity=".6" stroke-width="1"/>
 </svg>
